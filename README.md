@@ -8,7 +8,7 @@ The purpose of this analysis is to build upon Dana’s existing website created 
 
 This webpage allows for in depth data analysis by the user. The webpage is straight forward and simple to use. To generate search result users will need to manually enter values for each section. To provide guidance for how to enter data in each section, a prompt, also referred to as a “placeholder” that gives an example of how users should enter values for a given section. In the example below, you see the placeholder 1/10/2010. This convention should be followed in order to generate results. After entering the date press enter. Continue following placeholder examples in each additional section.
 
-https://github.com/lmiles77/UFOs/blob/main/static/images/filter.jpeg
+filter.jpeg
 
 # Summary
 
